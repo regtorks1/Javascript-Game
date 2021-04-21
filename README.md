@@ -6,7 +6,8 @@ target the bricks to where the ball is moving to. Some customizations were made 
 supposed to serve as prompt to inform the game to input the number of tries he/she want but there is a limit.</p>
 <h2>Language Used</h2>
 <p> This was the language used in developing the game </p>
-<ol><li>Javascript</ol>
+<ol><li>Javascript</li>
+<li>HTML</li><ol>
 <h3>Resources</h3>
 <ol><li>Udemy.com with title Code your first Game: Arcade classic in Javascript on Canvas
 <li>stackoverflow.com for answers to questions</li>
